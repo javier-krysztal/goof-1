@@ -8,3 +8,6 @@ patch:
         patched: '2020-03-15T04:28:46.490Z'
     - tap > nyc > istanbul-reports > handlebars > async > lodash:
         patched: '2020-03-15T04:35:47.125Z'
+  'npm:ms:20151024':
+    - humanize-ms > ms:
+        patched: '2020-03-15T04:38:11.354Z'
