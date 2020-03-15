@@ -6,3 +6,6 @@ patch:
   SNYK-JS-LODASH-450202:
     - mongoose > async > lodash:
         patched: '2020-03-15T04:28:46.490Z'
+  'npm:ms:20151024':
+    - humanize-ms > ms:
+        patched: '2020-03-15T04:34:33.555Z'
